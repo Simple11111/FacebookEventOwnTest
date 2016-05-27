@@ -1,0 +1,62 @@
+{
+    "events": [
+        {
+            "date": "25",
+            "day": "WED",
+            "title": "Barack's Birthday Bash",
+            "detailTitle": "Bill Clinton invited you.",
+            "profileImageName": "BG1"
+        },
+        {
+            "date": "26",
+            "day": "THU",
+            "title": "Outside Lands 2015",
+            "detailTitle": "82 friends are going.",
+            "profileImageName": "BG2"
+        },
+        {
+            "date": "27",
+            "day": "FRI",
+            "title": "Dribbble NYC Meetup",
+            "detailTitle": "Evan Simoni invited you",
+            "profileImageName": "BG3"
+        },
+        {
+            "date": "28",
+            "day": "SAT",
+            "title": "Super Saturday",
+            "detailTitle": "103 friends are reading",
+            "profileImageName": "BG4"
+        }
+    ],
+    "recommended": [
+        {
+            "date": "07",
+            "day": "WED",
+            "title": "Jasmie xx at Bimbo's",
+            "detailTitle": "You follow Jasmie xx on soundcloud",
+            "profileImageName": "BG5"
+        },
+        {
+            "date": "08",
+            "day": "TUE",
+            "title": "16th Annual Oysterfeet",
+            "detailTitle": "You went last year",
+            "profileImageName": "BG6"
+        },
+        {
+            "date": "09",
+            "day": "FRI",
+            "title": "Northern Nights Music Festival",
+            "detailTitle": "Similar to Coachella 2015",
+            "profileImageName": "BG7"
+        },
+        {
+            "date": "10",
+            "day": "SAT",
+            "title": "The Bad Plus Joshua Redman",
+            "detailTitle": "Matt and David are going",
+            "profileImageName": "BG8"
+        }
+    ]
+}
